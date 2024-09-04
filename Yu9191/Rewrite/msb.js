@@ -2,7 +2,7 @@
 
 马士兵
 编程语言学习
-*/
+
 
 [rewrite_local]
 
@@ -12,7 +12,7 @@ https:\/\/gateway\.mashibing\.com\/edu-course\/(coursePackage\/app\/1|app\/syste
 [mitm] 
 
 hostname = gateway.mashibing.com
-
+*/
 
 
 var body = $response.body;
